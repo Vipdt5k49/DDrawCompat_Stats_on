@@ -33,4 +33,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: ddraw
-        path: Release/ddraw.dll
+        path: DDrawCompat/Release/ddraw.dll
